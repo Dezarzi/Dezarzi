@@ -1,5 +1,1 @@
 install.packages("colorfindr")
-install.packages("tidyverse") 
-install.packages("palmerpenguins")
-library(colorfindr)
-library(tidyverse)
